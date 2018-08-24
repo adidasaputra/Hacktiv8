@@ -1,2 +1,8 @@
 # Hacktiv8
-Into to programing
+Intro to programing
+Hi All!
+
+This is repositories for Intro to programing course
+HTML
+CSS
+and Java Script
